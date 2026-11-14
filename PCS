@@ -12,11 +12,10 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>How Do Cloud Gaming Services
-
-Let People Play Heavy Games on Cheap Laptop?
-          (Research Question)</h1>
+<h1>
+    How Do Cloud Gaming Services Let People Play Heavy Games on Cheap Laptops?
+    (Research Question)
+</h1>
         <p><strong>Students Name & ID Numbers:</strong> </p>
         <ol>
     <li>Belqes Kamal (262710265)</li>
@@ -25,7 +24,7 @@ Let People Play Heavy Games on Cheap Laptop?
     <li>Zinab Khaled (262710411)</li>
 </ol>
         <p><strong></strong> Section Number: LB06</p>
-        <p><strong>Submission Date: 2025/11/14
+<p><strong>Submission Date:</strong> 2025/11/14</p>
     </header>
     <nav>
         <ul>
@@ -102,7 +101,11 @@ Major industry players have established global cloud gaming networks. For instan
 C. Mobile and Handheld Gaming Expansion:  
 
 Smartphones, tablets, and lightweight handheld consoles (running Android or iOS) are no longer restricted by thermal throttling or battery constraints of mobile processors. They can run resource-heavy PC and console games natively streamed from the cloud, bridging the gap between mobile and desktop gaming.</p>
-  <img src="https://redappletech.com/blog/the-rise-of-cloud-gaming-a-comprehensive-overview" width="400" alt="Cloud Gaming">
+  <p>
+    <a href="https://redappletech.com/blog/the-rise-of-cloud-gaming-a-comprehensive-overview" target="_blank">
+        Source of Cloud Gaming Illustration
+    </a>
+</p>
     </section>
 <section id="question">
         <h2>2.Research Question</h2>
@@ -111,7 +114,7 @@ Smartphones, tablets, and lightweight handheld consoles (running Android or iOS)
 
     <section id="analysis">
         <h2>3.Research Analysis</h2>
-        <p>ا2.   What do your sources say about the topic? Explain how it relates to the selected technology. Do they answer the research question? 
+        <p>ا2. What do your sources say about the topic? Explain how it relates to the selected technology. Do they answer the research question? 
 
 The three sources thoroughly explain the technical, academic, and industrial mechanisms behind cloud gaming, detailing how low-end hardware can handle resource-intensive games: 
 
@@ -201,7 +204,7 @@ The Separation of Rendering and Display:
 
     <section id="conclusion">
         <h2>5 Conclusion</h2>
-        <p>ا1. Restate the research question and summarize the answer. 
+       1. Restate the research question and summarize the answer.
 
 The Research Question: 
 
@@ -240,14 +243,15 @@ It represents a paradigm shift in computing—transforming demanding, hardware-d
 <section id="references">
     <h2>6. References</h2>
 
-    <p>
-        International Telecommunication Union (ITU). (2022).
-        Recommendation ITU‑T J.1312: Framework and requirements
-        for cloud gaming services.
-        <a href="https://www.itu.int/rec/T-REC-J" target="_blank">
-            https://www.itu.int/rec/T-REC-J
-        </a>
-    </p>
+  <p>
+    International Telecommunication Union (ITU). (2022).
+    Recommendation ITU‑T J.1312: Framework and requirements for cloud gaming services.
+    ITU‑T Telecommunication Standardization Sector.
+    <br>
+    <a href="https://www.itu.int/rec/T-REC-J" target="_blank">
+        https://www.itu.int/rec/T-REC-J
+    </a>
+</p>
 
     <p>
         Claypool, M., et al. (2020).
@@ -256,10 +260,10 @@ It represents a paradigm shift in computing—transforming demanding, hardware-d
             https://dl.acm.org/
         </a>
     </p>
+</section>
 
-Claypool, M., et al. (2020). Network Anatomy and Real-Time Measurement of Cloud Gaming Systems. Proceedings of the ACM / Passive and Active Measurement Conference (PAM). ACM Digital Library. https://dl.acm.org/ 
-    <footer>
-        <p>Course Code: PCS001 | Section Number: [LB06] | Team Members :{Belqes Kamal- Ghadi Ade-Jana Alwan- Zinab Khaled}</p>
+<footer>
+        <p>Course Code: PCS001 | Section Number: [LB06] | Team Members: Belqes Kamal - Ghadi Adel - Jana Alwan - Zinab Khaled</p>
     </footer>
 
 </body>

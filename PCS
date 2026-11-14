@@ -28,7 +28,7 @@ Let People Play Heavy Games on Cheap Laptop?
     <li>Zinab Khaled (262710411)</li>
 </ol>
         <p><strong></strong> Section Number: LB06</p>
-        <p><strong>Submission Date:</strong> 2026/11/14</p>
+        <p><strong>Submission Date: 2025/11/14
     </header>
     <nav>
         <ul>
@@ -105,7 +105,7 @@ Major industry players have established global cloud gaming networks. For instan
 C. Mobile and Handheld Gaming Expansion:  
 
 Smartphones, tablets, and lightweight handheld consoles (running Android or iOS) are no longer restricted by thermal throttling or battery constraints of mobile processors. They can run resource-heavy PC and console games natively streamed from the cloud, bridging the gap between mobile and desktop gaming.</p>
-        <img src="https://share.google/nyvjwr3K0Il0c5HAj" width="400">
+  <img src="https://redappletech.com/blog/the-rise-of-cloud-gaming-a-comprehensive-overview" width="400" alt="Cloud Gaming">
     </section>
 <section id="question">
         <h2>2.Research Question</h2>
@@ -240,14 +240,25 @@ Architectural Evolution:
 It represents a paradigm shift in computing—transforming demanding, hardware-dependent software into an on-demand, cloud-delivered service, much like streaming video transformed entertainment. 
  .</p>
     </section>
+<section id="references">
+    <h2>6. References</h2>
 
-    <section id="references">
-        <h2>6.References</h2>
-        <p> 
+    <p>
+        International Telecommunication Union (ITU). (2022).
+        Recommendation ITU‑T J.1312: Framework and requirements
+        for cloud gaming services.
+        <a href="https://www.itu.int/rec/T-REC-J" target="_blank">
+            https://www.itu.int/rec/T-REC-J
+        </a>
+    </p>
 
-International Telecommunication Union (ITU). (2022). Recommendation ITU-T J.1312: Framework and requirements for cloud gaming services. ITU-T Telecommunication Standardization Sector. https://www.itu.int/rec/T-REC-J 
-
- 
+    <p>
+        Claypool, M., et al. (2020).
+        Network Anatomy and Real-Time Measurement of Cloud Gaming Systems.
+        <a href="https://dl.acm.org/" target="_blank">
+            https://dl.acm.org/
+        </a>
+    </p>
 
 Claypool, M., et al. (2020). Network Anatomy and Real-Time Measurement of Cloud Gaming Systems. Proceedings of the ACM / Passive and Active Measurement Conference (PAM). ACM Digital Library. https://dl.acm.org/ 
     <footer>
